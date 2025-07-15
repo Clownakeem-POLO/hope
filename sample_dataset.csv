@@ -1,0 +1,51 @@
+First Name,Last Name,Email,Sales ID,Date,Sales Amount,Region,Product Category,Units Sold,Discount,Total Revenue,Payment Method,Customer Rating,Order Status,Return Flag
+John,Doe,john.doe@example.com,325678,2025-07-01,500.50,North,Electronics,2,10.00,990.00,Credit Card,4.5,Shipped,No
+Jane,Smith,jane.smith@example.com,425689,2025-07-02,600.75,South,Clothing,3,15.00,1795.25,Debit Card,4.0,Delivered,Yes
+Bob,Johnson,bob.j@example.com,325678,2025-07-03,450.25,West,Furniture,1,5.00,445.25,Cash,3.5,Processing,No
+Alice,Williams,alice.w@example.com,525790,2025-07-04,700.00,East,Books,4,20.00,2780.00,Credit Card,4.8,Shipped,No
+Mike,Brown,mike.b@example.com,625801,2025-07-05,550.30,North,Electronics,2,12.00,1088.30,Debit Card,4.2,Delivered,Yes
+Sarah,Davis,sarah.d@example.com,725912,2025-07-06,480.90,South,Clothing,3,8.00,1430.70,Cash,3.8,Processing,No
+Tom,Wilson,tom.w@example.com,325678,2025-07-07,510.20,West,Furniture,1,6.00,504.20,Credit Card,4.0,Shipped,No
+Lisa,Anderson,lisa.a@example.com,825023,2025-07-08,620.45,East,Books,4,15.00,2471.80,Debit Card,4.6,Delivered,Yes
+David,Thomas,david.t@example.com,925134,2025-07-09,470.15,North,Electronics,2,10.00,930.15,Cash,3.9,Processing,No
+Emma,Jackson,emma.j@example.com,1025145,2025-07-10,690.80,South,Clothing,3,18.00,2058.40,Credit Card,4.7,Shipped,No
+Peter,Lee,peter.l@example.com,326789,2025-07-11,430.60,West,Furniture,1,5.00,425.60,Debit Card,3.6,Delivered,Yes
+Mary,Taylor,mary.t@example.com,426890,2025-07-12,580.95,East,Books,4,12.00,2303.80,Cash,4.1,Processing,No
+James,Moore,james.m@example.com,526901,2025-07-13,640.30,North,Electronics,2,15.00,1270.30,Credit Card,4.4,Shipped,No
+Laura,White,laura.w@example.com,626012,2025-07-14,490.85,South,Clothing,3,10.00,1460.55,Debit Card,3.7,Delivered,Yes
+Chris,Harris,chris.h@example.com,726123,2025-07-15,710.10,West,Furniture,1,8.00,702.10,Cash,4.9,Processing,No
+Anna,Martin,anna.m@example.com,826234,2025-07-16,530.70,East,Books,4,14.00,2108.70,Credit Card,4.3,Shipped,No
+Mark,Clark,mark.c@example.com,926345,2025-07-17,460.40,North,Electronics,2,6.00,914.40,Debit Card,3.8,Delivered,Yes
+Sophie,Lewis,sophie.l@example.com,1026456,2025-07-18,670.25,South,Clothing,3,12.00,1995.75,Cash,4.5,Processing,No
+Daniel,Walker,daniel.w@example.com,327890,2025-07-19,510.90,West,Furniture,1,5.00,505.90,Credit Card,4.0,Shipped,No
+Rachel,Allen,rachel.a@example.com,427901,2025-07-20,590.15,East,Books,4,10.00,2356.60,Debit Card,4.2,Delivered,Yes
+George,Young,george.y@example.com,527912,2025-07-21,440.80,North,Electronics,2,8.00,872.80,Cash,3.6,Processing,No
+Helen,King,helen.k@example.com,627023,2025-07-22,680.50,South,Clothing,3,15.00,2035.50,Credit Card,4.7,Shipped,No
+Paul,Scott,paul.s@example.com,727134,2025-07-23,520.35,West,Furniture,1,6.00,514.35,Debit Card,4.1,Delivered,Yes
+Julia,Green,julia.g@example.com,827245,2025-07-24,610.60,East,Books,4,12.00,2424.40,Cash,4.4,Processing,No
+Andrew,Baker,andrew.b@example.com,927356,2025-07-25,470.20,North,Electronics,2,10.00,930.20,Credit Card,3.9,Shipped,No
+Karen,Adams,karen.a@example.com,1027467,2025-07-26,700.90,South,Clothing,3,18.00,2092.70,Debit Card,4.6,Delivered,Yes
+Steven,Campbell,steven.c@example.com,328901,2025-07-27,450.75,West,Furniture,1,5.00,445.75,Cash,3.7,Processing,No
+Nancy,Rodriguez,nancy.r@example.com,428912,2025-07-28,630.40,East,Books,4,14.00,2506.40,Credit Card,4.3,Shipped,No
+Robert,Gonzalez,robert.g@example.com,528023,2025-07-29,560.10,North,Electronics,2,10.00,1110.10,Debit Card,4.0,Delivered,Yes
+Emily,Nelson,emily.n@example.com,628134,2025-07-30,690.85,South,Clothing,3,15.00,2066.55,Cash,4.5,Processing,No
+Matthew,Perez,matthew.p@example.com,728245,2025-07-31,510.30,West,Furniture,1,6.00,504.30,Credit Card,4.2,Shipped,No
+Olivia,Ross,olivia.r@example.com,828356,2025-08-01,620.50,East,Books,4,12.00,2470.50,Debit Card,4.7,Delivered,Yes
+William,Phillips,william.p@example.com,928467,2025-08-02,480.15,North,Electronics,2,8.00,952.15,Cash,3.8,Processing,No
+Grace,Carter,grace.c@example.com,1028478,2025-08-03,710.20,South,Clothing,3,15.00,2125.60,Credit Card,4.9,Shipped,No
+Thomas,Mitchell,thomas.m@example.com,329012,2025-08-04,540.90,West,Furniture,1,5.00,535.90,Debit Card,4.1,Delivered,Yes
+Rebecca,Patterson,rebecca.p@example.com,429123,2025-08-05,590.75,East,Books,4,10.00,2363.00,Cash,4.4,Processing,No
+Joseph,Turner,joseph.t@example.com,529234,2025-08-06,460.40,North,Electronics,2,6.00,914.40,Credit Card,3.6,Shipped,No
+Victoria,Hill,victoria.h@example.com,629345,2025-08-07,680.10,South,Clothing,3,12.00,2034.30,Debit Card,4.8,Delivered,Yes
+Charles,Roberts,charles.r@example.com,729456,2025-08-08,520.85,West,Furniture,1,8.00,512.85,Cash,4.0,Processing,No
+Margaret,Clark,margaret.c@example.com,829567,2025-08-09,630.30,East,Books,4,15.00,2502.30,Credit Card,4.5,Shipped,No
+Henry,Lewis,henry.l@example.com,929678,2025-08-10,470.60,North,Electronics,2,10.00,931.20,Debit Card,3.7,Delivered,Yes
+Elizabeth,Walker,elizabeth.w@example.com,1029489,2025-08-11,700.25,South,Clothing,3,18.00,2097.75,Cash,4.6,Processing,No
+Richard,Hall,richard.h@example.com,330123,2025-08-12,510.80,West,Furniture,1,5.00,505.80,Credit Card,4.2,Shipped,No
+Catherine,Allen,catherine.a@example.com,430234,2025-08-13,590.50,East,Books,4,12.00,2352.50,Debit Card,4.4,Delivered,Yes
+Edward,Young,edward.y@example.com,530345,2025-08-14,440.15,North,Electronics,2,6.00,874.15,Cash,3.9,Processing,No
+Susan,King,susan.k@example.com,630456,2025-08-15,670.90,South,Clothing,3,15.00,2007.70,Credit Card,4.7,Shipped,No
+Michael,Wright,michael.w@example.com,730567,2025-08-16,520.30,West,Furniture,1,8.00,512.30,Debit Card,4.0,Delivered,Yes
+Linda,Lopez,linda.l@example.com,830678,2025-08-17,610.75,East,Books,4,10.00,2433.00,Cash,4.5,Processing,No
+Donald,Hill,donald.h@example.com,930789,2025-08-18,480.40,North,Electronics,2,6.00,934.40,Credit Card,3.8,Shipped,No
+Patricia,Scott,patricia.s@example.com,1030490,2025-08-19,690.20,South,Clothing,3,12.00,2061.60,Debit Card,4.9,Delivered,Yes
